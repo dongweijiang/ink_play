@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+build/
+dist/
+*.spec
+.env
+logs/*.log
+saves/*.json
+saves/*.tmp
+saves/*.bak
