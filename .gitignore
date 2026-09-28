@@ -13,3 +13,6 @@ logs/*.log
 saves/*.json
 saves/*.tmp
 saves/*.bak
+.env.example
+.env
+
